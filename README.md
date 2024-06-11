@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Baek SangHo] 👋
 
 ![Banner](https://your-image-url.com/banner.png)
 
