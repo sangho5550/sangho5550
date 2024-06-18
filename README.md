@@ -4,6 +4,12 @@
 
 I'm a passionate Full Stack Developer with a strong focus on Java development and cybersecurity, from [Your Location]. I love creating innovative solutions and exploring cutting-edge technologies.
 
+# 👋 2024 Goal 👋
+- 🤗 **Soaking Jaehwan Lee into cement** ✅
+- 🌱 **Improving Projects**
+- 🌹 **Code with elegance, not just functionality**
+- 💖 **Stay humble, stay hungry**
+
 ## 🛠️ Tech Stack
 
 ### Languages
