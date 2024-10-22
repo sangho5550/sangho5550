@@ -1,7 +1,7 @@
-<h1 align="center"> Hi 👋, Welcome to Baek's Github, a developer who codes dreams</h1>
-<h3 align="center">A developer who strives to write clean, efficient code with a focus on problem solving and continuous learning.</h3>
+# Hi 👋, Welcome to Baek's Github, a developer who codes dreams
+### A developer who strives to write clean, efficient code with a focus on problem solving and continuous learning.
 
-# 👋 2024 Goal 👋
+## 👋 2024 Goal 👋
 - 🤗 **SQLD** ✅
 - 🌱 **TOEFL**
 
