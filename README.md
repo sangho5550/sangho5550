@@ -85,13 +85,8 @@
 ## 📫 My References
 <a href="https://www.instagram.com/sangho/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/baekxangho)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)]([https://www.notion.so/yourusername](https://solstice-raincoat-aa3.notion.site/coder-developer-1039d9a1c17980d3ade5ce6bbc115ae3))
-
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/coder-developer-1039d9a1c17980d3ade5ce6bbc115ae3)
-
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://yourblogurl.com)
-
---- 
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://velog.io/@sangho5550/posts)
 
 ### [ 2023 ]
 >2022.12 ~ 2023.02 알고리즘 자동 채점 사이트 'CodeChallenge' 프로젝트   
