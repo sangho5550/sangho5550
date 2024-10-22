@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, Welcome to Baek's Github, a developer who codes dreams 👋</h1>
+<h1 align="center"> Hi 👋, Welcome to Baek's Github, a developer who codes dreams</h1>
 <h3 align="center">A developer who strives to write clean, efficient code with a focus on problem solving and continuous learning.</h3>
 
 # 👋 2024 Goal 👋
