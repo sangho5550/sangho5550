@@ -87,6 +87,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/baekxangho)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)]([https://www.notion.so/yourusername](https://solstice-raincoat-aa3.notion.site/coder-developer-1039d9a1c17980d3ade5ce6bbc115ae3))
 
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/coder-developer-1039d9a1c17980d3ade5ce6bbc115ae3)
+
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://yourblogurl.com)
 
 --- 
