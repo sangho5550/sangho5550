@@ -125,4 +125,4 @@
 ## 📫 Contact
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/baekxangho)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/coder-developer-1039d9a1c17980d3ade5ce6bbc115ae3)
-[![Velog](https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@sangho5550)
+[![Velog](https://img.shields.io/badge/Velog-1EBC8F?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@sangho5550)
