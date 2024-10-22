@@ -86,23 +86,3 @@
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/coder-developer-1039d9a1c17980d3ade5ce6bbc115ae3)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://velog.io/@sangho5550/posts)
 
-### [ 2023 ]
->2022.12 ~ 2023.02 알고리즘 자동 채점 사이트 'CodeChallenge' 프로젝트   
->2023.03 ~ 2023.06 캡스톤디자인 프로젝트 '한대모여'
-
-### [ 2024 ]
->2024.05 ~ 트레이딩 카드 경매 사이트 'CardAuction' 프로젝트
-## 📫 Get in Touch
-
-- [LinkedIn](https://www.linkedin.com/in/yourusername/)
-- [Email](mailto:your.email@example.com)
-- [Personal Website](https://yourwebsite.com)
-
-## 🚀 Follow Me
-
-![Twitter](https://img.shields.io/twitter/follow/yourusername?style=social)
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
-
----
-
-*Feel free to reach out for collaboration or just a friendly chat!*
