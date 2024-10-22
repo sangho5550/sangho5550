@@ -65,5 +65,5 @@
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/coder-developer-1039d9a1c17980d3ade5ce6bbc115ae3)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://velog.io/@sangho5550/posts)
 
-https://api.github.com/users/sangho5550/repos?per_page=100
-https://api.github.com/orgs/sangho5550/repos?per_page=100
+[사용자 리포지토리 목록](https://api.github.com/users/sangho5550/repos?per_page=100)
+[조직 리포지토리 목록](https://api.github.com/orgs/sangho5550/repos?per_page=100)
