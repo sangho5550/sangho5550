@@ -46,6 +46,7 @@
 ![Splunk](https://img.shields.io/badge/Splunk-0093C4?style=flat-square&logo=splunk&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-FF6F00?style=flat-square&logo=cisco&logoColor=white)
 ![GNS3](https://img.shields.io/badge/GNS3-9B4C3A?style=flat-square&logo=gns3&logoColor=white)
 ![PyQt5](https://img.shields.io/badge/PyQt5-00B4EF?style=flat-square&logo=python&logoColor=white)
 
