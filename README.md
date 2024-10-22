@@ -53,29 +53,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 
-
-## 🔥 Projects
-### [Project 1](https://github.com/yourusername/project1)
-![Project 1](https://your-image-url.com/project1.png)
-**Description**: A brief description of Project 1. Highlight the main features and technologies used.  
-**Technologies**: Spring Boot, React, MySQL
-
-### [Project 2](https://github.com/yourusername/project2)
-![Project 2](https://your-image-url.com/project2.png)
-**Description**: A brief description of Project 2. Highlight the main features and technologies used.  
-**Technologies**: Django, PostgreSQL
-
-### [Cybersecurity Project](https://github.com/yourusername/cybersecurity-project)
-![Cybersecurity Project](https://your-image-url.com/cybersecurity-project.png)
-**Description**: A brief description of the cybersecurity project. Highlight the main features and tools used.  
-**Technologies**: Kali Linux, Wireshark, Nmap, Burp Suite, Metasploit
-
-## 🌟 Featured Repositories
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical)](https://github.com/yourusername/project1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical)](https://github.com/yourusername/project2)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=cybersecurity-project&theme=radical)](https://github.com/yourusername/cybersecurity-project)
-
 ## 📊 GitHub Stats
 ![SangHo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
