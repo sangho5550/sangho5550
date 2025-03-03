@@ -1,14 +1,9 @@
 # Hi 👋, Welcome to Baek's Github, a developer who codes dreams
 ### A developer who strives to write clean, efficient code with a focus on problem solving and continuous learning.
 
-## 👋 2024 Goal 👋
-- 🤗 **SQLD** ✅
-- 🌱 **TOEFL**
 
 ## 🛠️ Tech Stack
 ### BackEnd
-![C](https://img.shields.io/badge/C-A8B400?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-3C3C3D?style=flat-square&logo=java&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-6DB33F?style=flat-square&logo=java&logoColor=white)
@@ -44,7 +39,6 @@
 ![VMware](https://img.shields.io/badge/VMware-VMware-4BC2D4?style=flat-square&logo=vmware&logoColor=black)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-0093C4?style=flat-square&logo=splunk&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-FF6F00?style=flat-square&logo=cisco&logoColor=white)
 ![GNS3](https://img.shields.io/badge/GNS3-9B4C3A?style=flat-square&logo=gns3&logoColor=white)
@@ -62,6 +56,4 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsangho5550&count_bg=%2345DF22&title_bg=%23555555&icon=github.svg&icon_color=%23FFE4C4&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 📫 Contact
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/baekxangho)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/coder-developer-1039d9a1c17980d3ade5ce6bbc115ae3)
 [![Velog](https://img.shields.io/badge/Velog-1EBC8F?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@sangho5550)
